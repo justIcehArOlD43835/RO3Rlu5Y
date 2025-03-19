@@ -15,7 +15,6 @@ By making a contribution to this project, I certify that:
    in the file; or
 
 3. The contribution was provided directly to me by some other
-   person who certified (1), (2) or (3) and I have not modified
    it.
 
 4. I understand and agree that this project and the contribution
