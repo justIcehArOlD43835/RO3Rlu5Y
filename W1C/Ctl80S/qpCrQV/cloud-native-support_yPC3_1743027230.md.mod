@@ -80,7 +80,6 @@ require (
 //replace (
 //	github.com/eolinker/eosc => ../../eolinker/eosc
 //)
-
 //replace github.com/eolinker/ap-account => ../../eolinker/ap-account
 
 //
